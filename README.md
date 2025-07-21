@@ -55,7 +55,7 @@ I love building decentralized applications, exploring blockchain technologies, a
 ## 🌐 Connect with Me
 
 <p align="left">
-  🗨️ <strong>Telegram Channel:</strong> <a href="[https://t.me/saimondanya](https://t.me/buldozercode)" target="_blank">Buldozer Code</a><br>
+  🗨️ <strong>Telegram Channel:</strong> <a href="https://t.me/buldozercode" target="_blank">Buldozer Code</a><br>
   🗨️ <strong>Telegram:</strong> <a href="https://t.me/saimondanya" target="_blank">My telegram</a><br>
   🎮 <strong>Discord:</strong> <a href="https://discord.com/degcrypto" target="_blank">Discord</a><br>
   ☕ <strong>Support EVM:</strong> <code>0x7AE96311BEd9Fc1a32Eb99f1d62E9C2aA088bb38</code>
