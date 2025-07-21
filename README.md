@@ -55,9 +55,9 @@ I love building decentralized applications, exploring blockchain technologies, a
 ## 🌐 Connect with Me
 
 <p align="left">
-  🗨️ <strong>Telegram:</strong> [https://t.me/saimondanya]  
-  🎮 <strong>Discord:</strong> [degcrypto]  
-  ☕ <strong>Support:</strong> [0x7AE96311BEd9Fc1a32Eb99f1d62E9C2aA088bb38]
+  🗨️ <strong>Telegram:</strong> [saimondanya(https://t.me/saimondanya)]  
+  🎮 <strong>Discord:</strong> [degcrypto(discord.com/degcrypto)]  
+  ☕ <strong>Support EVM:</strong> 0x7AE96311BEd9Fc1a32Eb99f1d62E9C2aA088bb38
 </p>
 
 ---
