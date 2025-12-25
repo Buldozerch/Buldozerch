@@ -1,74 +1,89 @@
-<!-- GitHub Profile README -->
-
-<h1 align="center">Hi there! 👋 I'm a Python Developer in Web3</h1>
+<h1 align="center">Hi 👋 I'm a Python Developer</h1>
 
 <p align="center">
-  🚀 Passionate about Blockchain • 🛠️ Building decentralized apps • 🐧 Linux Enthusiast
+  Python • Automation • Async • Web3 • Linux
 </p>
 
 ---
 
-## 🧩 About Me
+## 👨‍💻 About Me
 
-I'm a Python developer specializing in **Web3**.  
-I love building decentralized applications, exploring blockchain technologies, and working in a **GNU/Linux** environment.  
----
+I'm a **Python developer** with hands-on experience in building automation tools, backend logic, and Web3-related solutions.
 
-## 🛠️ Tech Stack & Skills
+My primary focus is:
+- automation of workflows and web services,
+- asynchronous Python applications,
+- interaction with external APIs and blockchain networks.
 
-- ⚙️ Python for Web3 development  
-- 🕸️ Async programming with `asyncio`  
-- 🔗 Smart contract interaction via `web3.py`  
-- 🗄️ Databases: MySQL & SQLite  
-- 🤖 Automation & Web scraping with **Playwright**  
-- 🐧 Daily Linux user & Git version control
+I work comfortably with existing codebases, understand application architecture, and write maintainable, extensible code.
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Core Skills & Technologies
 
-- 📜 Blockchain Development: **Solidity**, **Foundry** toolkit  
-- 🌐 Deepening my knowledge of decentralized technologies  
+### Programming
+- Python (asyncio, OOP, error handling)
+- Algorithms & data structures
+
+### Automation & Web
+- Web automation and scraping
+- Playwright, Requests
+- Proxy management, session handling
+
+### Databases
+- SQL
+- SQLAlchemy
+- Query optimization
+
+### APIs & Integrations
+- REST APIs
+- Telegram Bot API
+- web3.py (EVM interaction)
+
+### Tools & Environment
+- Linux
+- Git, GitHub
+- Async-first development mindset
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Experience Highlights
+
+- Developed Python scripts and services for **automation of web workflows**
+- Built tools for **data collection, processing, and validation**
+- Worked on **asynchronous applications** to improve performance and scalability
+- Participated in **team-based development**, maintaining and improving existing codebases
+- Experience with **Web3 projects**: blockchain interaction, transaction handling, automation
+
+---
+
+## 📌 Current Focus
+
+- Improving backend architecture skills
+- Writing clean, scalable Python services
+- Deepening experience in async programming and system design
+- Practical Web3 tooling and automation
+
+---
+
+## 🔗 Projects & Code
+
+Here you can find:
+- personal automation projects,
+- experimental Web3 tools,
+- team-based repositories with production-style code.
+
+👉 I'm comfortable working with **real-world code**, not just tutorials.
+
+---
+
+## 📫 Contacts
+
+- Telegram: https://t.me/saimondanya  
+- Telegram channel: https://t.me/buldozercode  
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Buldozerch&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buldozerch&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Buldozerch&theme=onedark&margin-w=10&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  🗨️ <strong>Telegram Channel:</strong> <a href="https://t.me/buldozercode" target="_blank">Buldozer Code</a><br>
-  🗨️ <strong>Telegram:</strong> <a href="https://t.me/saimondanya" target="_blank">My telegram</a><br>
-  🎮 <strong>Discord:</strong> <a href="https://discord.com/users/:385147605421654018" target="_blank">Discord</a><br>
-  ☕ <strong>Support EVM:</strong> <code>0x7AE96311BEd9Fc1a32Eb99f1d62E9C2aA088bb38</code>
-</p>
-
----
-
-## 💡 Fun Fact
-
-I do most of my development on **Linux**, and I believe in open-source, community-driven innovation.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Buldozerch&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Buldozerch&style=flat-square" />
 </p>
